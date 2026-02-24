@@ -54,6 +54,7 @@ export const Navbar = ({ activeSection, setActiveSection }: NavbarProps) => {
                             ))}
                             <a
                                 href="/resume.pdf"
+                                download="resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="ml-4 px-4 py-2 text-sm font-mono text-terminal-black bg-terminal-green hover:bg-terminal-green/90 rounded transition-colors flex items-center gap-2"
@@ -104,6 +105,7 @@ export const Navbar = ({ activeSection, setActiveSection }: NavbarProps) => {
                             ))}
                             <a
                                 href="/resume.pdf"
+                                download="resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 onClick={() => setIsOpen(false)}

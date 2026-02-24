@@ -64,6 +64,7 @@ export const Contact = () => {
 
                                 <a
                                     href="/resume.pdf"
+                                    download="resume.pdf"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-4 text-terminal-text hover:text-terminal-green transition-colors group pt-4 border-t border-white/5"
