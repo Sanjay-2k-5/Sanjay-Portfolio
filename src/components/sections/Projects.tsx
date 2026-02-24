@@ -6,7 +6,7 @@ const projects = [
         title: "FarmToHome – Agri-Commerce Marketplace",
         description: "A scalable MERN-based multi-vendor platform connecting farmers directly with consumers for efficient agricultural commerce.",
         tags: ["MongoDB", "Express.js", "React", "Node.js", "JWT"],
-        links: { demo: "#", code: "#" },
+        links: { demo: "https://github.com/Sanjay-2k-5/FarmToHome", code: "https://github.com/Sanjay-2k-5/FarmToHome" },
         achievements: [
             "Improved API performance by 40% using optimized MongoDB indexing",
             "Implemented secure RBAC for Admin, Farmer, Consumer, and Delivery roles",
@@ -17,7 +17,7 @@ const projects = [
         title: "CollegeLMS – Learning Management System",
         description: "A scalable LMS platform supporting structured course delivery and progress tracking across multiple departments.",
         tags: ["MongoDB", "Express.js", "React", "Node.js", "Zustand"],
-        links: { demo: "#", code: "#" },
+        links: { demo: "https://github.com/Preethi3S/collegeLMS", code: "https://github.com/Preethi3S/collegeLMS" },
         achievements: [
             "Supported 500+ students with course and progress management",
             "Reduced build time by 40% using Vite migration",
