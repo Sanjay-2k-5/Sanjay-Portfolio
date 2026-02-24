@@ -17,7 +17,7 @@ const projects = [
         title: "CollegeLMS – Learning Management System",
         description: "A scalable LMS platform supporting structured course delivery and progress tracking across multiple departments.",
         tags: ["MongoDB", "Express.js", "React", "Node.js", "Zustand"],
-        links: { demo: "https://github.com/Preethi3S/collegeLMS", code: "https://github.com/Preethi3S/collegeLMS" },
+        links: { demo: "https://github.com/Preethi3S/collegeLMS", code: "https://collegelms-1frontend.onrender.com/login" },
         achievements: [
             "Supported 500+ students with course and progress management",
             "Reduced build time by 40% using Vite migration",
